@@ -5,8 +5,8 @@ status: Draft
 author: 'Ross (@rossgalloway)'
 created: 2022-06-02
 type: Summary Document
-sidebar_label: 'Summary Document 📝'
-sidebar_position: 1
+sidebar_label: 'YAM RePlanted'
+sidebar_position: 2
 ---
 
 # 🍠 YAM RePlanted 
