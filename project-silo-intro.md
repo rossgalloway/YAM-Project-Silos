@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-id: project-silo-intro
+id: "project-silo-intro"
 ---
 
 # Welcome

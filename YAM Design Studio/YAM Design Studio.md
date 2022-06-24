@@ -6,7 +6,7 @@ author: 'Ross (@rossgalloway)'
 created: 2022-06-02
 type: Summary Document
 sidebar_label: 'Summary Document 📝'
-sidebar_position: 1
+sidebar_position: 3
 ---
 
 # YAM Design Studio 
