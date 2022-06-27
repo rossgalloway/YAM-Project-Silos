@@ -11,6 +11,8 @@ sidebar_position: 1
 
 # YAM Silo Creation Application
 
+*This document is the application form to create a new Silo, or project, at YAM. Upon completion, token holders will review the application and determine if it is a project that they find interesting and wish to fund a specification document.*
+
 [This is a comment! It will not display]: #
 [This application is the first step for starting a Silo at YAM. It is where you tell YAM holders that you want to build something and give the basic details so that they can approve or disapprove funding the next step, which is a specifications document.]: #
 
@@ -20,8 +22,10 @@ sidebar_position: 1
 
 [replace the text below with Your answer]: #
 
-John Doe \
-Discord: johnDoe ##### \
+John Doe
+
+Discord: johnDoe ##### 
+
 Telegram: @johndoe
 
 ### 2. Silo (Project) Name :building_construction:
