@@ -1,10 +1,4 @@
 ---
-Reference YGP: 01
-title: Yam Design Studio Summary Document
-status: Draft
-author: 'Ross (@rossgalloway)'
-created: 2022-06-02
-type: Summary Document
 sidebar_label: 'YAM Design Studio'
 sidebar_position: 3
 ---

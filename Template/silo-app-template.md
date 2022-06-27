@@ -18,53 +18,59 @@ sidebar_position: 1
 
 > *Who is the point person is for the application? Please include you discord and/or Telegram handle(s)*
 
-[insert name(s) and handle(s) here]: #
+[replace the text below with Your answer]: #
 
-
+John Doe \
+Discord: johnDoe ##### \
+Telegram: @johndoe
 
 ### 2. Silo (Project) Name :building_construction:
 
 > *What should we call your project?*
 
-[Insert Silo Name here]: #
+[replace the text below with Your answer]: #
 
-
+My New Silo Name
 
 ### 3. Project Description :thinking: (140 words or less)
 
 > *Give a summary of the project you are proposing*
 
-[Insert short summary here]: #
+[replace the text below with Your answer]: #
 
-
+Nulla tincidunt mi ullamcorper, sodales enim quis, rutrum nulla. Ut eleifend enim ipsum, ac ultrices nunc vestibulum non. Suspendisse eget tempus ipsum. Mauris sed lacus bibendum, faucibus nisi ut, volutpat lorem. Vivamus in ultricies metus, quis fermentum eros. In ornare enim a sodales lobortis. Integer libero odio, vehicula volutpat mauris nec, sollicitudin maximus tellus. Nullam diam diam, iaculis sed congue nec, vestibulum at ex. Phasellus dignissim hendrerit magna egestas varius.
 
 ### 4. About You :busts_in_silhouette:
 
 > *Tell us about you and your team. What experience do you and your team have that is relevant to the project. Please provide github profiles, websites, prior work, etc*
 
-[Insert answer here]: #
+[replace the text below with Your answer]: #
 
-
+Nulla tincidunt mi ullamcorper, sodales enim quis, rutrum nulla. Ut eleifend enim ipsum, ac ultrices nunc vestibulum non. Suspendisse eget tempus ipsum. Mauris sed lacus bibendum, faucibus nisi ut, volutpat lorem. Vivamus in ultricies metus, quis fermentum eros. In ornare enim a sodales lobortis. Integer libero odio, vehicula volutpat mauris nec, sollicitudin maximus tellus. Nullam diam diam, iaculis sed congue nec, vestibulum at ex. Phasellus dignissim hendrerit magna egestas varius.
 
 ### 5. Project Goals and Scope :rocket:
 
 > *If the project succeeds, what goals will it achieve? How do we measure that success?*
 
-[Insert answer here]: #
+[replace the text below with Your answer]: #
 
-
+Nulla tincidunt mi ullamcorper, sodales enim quis, rutrum nulla. Ut eleifend enim ipsum, ac ultrices nunc vestibulum non. Suspendisse eget tempus ipsum. Mauris sed lacus bibendum, faucibus nisi ut, volutpat lorem. Vivamus in ultricies metus, quis fermentum eros. In ornare enim a sodales lobortis. Integer libero odio, vehicula volutpat mauris nec, sollicitudin maximus tellus. Nullam diam diam, iaculis sed congue nec, vestibulum at ex. Phasellus dignissim hendrerit magna egestas varius.
 
 ### 6. YAM / Ecosystem Benefit :blush:
 
 > *What value does your project add to YAM and the wider ecosystem? How do we measure that benefit?*
 
-[Insert answer here]: #
+[replace the text below with Your answer]: #
+
+Nulla tincidunt mi ullamcorper, sodales enim quis, rutrum nulla. Ut eleifend enim ipsum, ac ultrices nunc vestibulum non. Suspendisse eget tempus ipsum. Mauris sed lacus bibendum, faucibus nisi ut, volutpat lorem. Vivamus in ultricies metus, quis fermentum eros. In ornare enim a sodales lobortis. Integer libero odio, vehicula volutpat mauris nec, sollicitudin maximus tellus. Nullam diam diam, iaculis sed congue nec, vestibulum at ex. Phasellus dignissim hendrerit magna egestas varius.
 
 ### 7. Other Information :question:
 
 > *Imagine you're a YAM holder. What else do you think we should know about your application?*
 
-[Insert answer here]: #
+[replace the text below with Your answer]: #
+
+Nulla tincidunt mi ullamcorper, sodales enim quis, rutrum nulla. Ut eleifend enim ipsum, ac ultrices nunc vestibulum non. Suspendisse eget tempus ipsum. Mauris sed lacus bibendum, faucibus nisi ut, volutpat lorem. Vivamus in ultricies metus, quis fermentum eros. In ornare enim a sodales lobortis. Integer libero odio, vehicula volutpat mauris nec, sollicitudin maximus tellus. Nullam diam diam, iaculis sed congue nec, vestibulum at ex. Phasellus dignissim hendrerit magna egestas varius.
 
 ---
 
