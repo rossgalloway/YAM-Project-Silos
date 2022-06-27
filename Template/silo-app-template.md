@@ -16,19 +16,13 @@ sidebar_position: 1
 
 ### 1. What is your name? Pseudonyms are cool too. :disguised_face:
 
-> *Who is the point person is for the application?*
+> *Who is the point person is for the application? Please include you discord and/or Telegram handle(s)*
 
-[insert name(s) here]: #
-
-
-
-### 2. What is your discord/telegram handle? :speaking_head:
-
-[insert discord and/or telegram handle(s) here]: #
+[insert name(s) and handle(s) here]: #
 
 
 
-### 3. Silo (Project) Name :building_construction:
+### 2. Silo (Project) Name :building_construction:
 
 > *What should we call your project?*
 
@@ -36,7 +30,7 @@ sidebar_position: 1
 
 
 
-### 4. Project Description :thinking: (140 words or less)
+### 3. Project Description :thinking: (140 words or less)
 
 > *Give a summary of the project you are proposing*
 
@@ -44,7 +38,7 @@ sidebar_position: 1
 
 
 
-### 5. About You :busts_in_silhouette:
+### 4. About You :busts_in_silhouette:
 
 > *Tell us about you and your team. What experience do you and your team have that is relevant to the project. Please provide github profiles, websites, prior work, etc*
 
@@ -52,7 +46,7 @@ sidebar_position: 1
 
 
 
-### 6. Project Goals and Scope :rocket:
+### 5. Project Goals and Scope :rocket:
 
 > *If the project succeeds, what goals will it achieve? How do we measure that success?*
 
@@ -60,13 +54,13 @@ sidebar_position: 1
 
 
 
-### 7. YAM / Ecosystem Benefit :blush:
+### 6. YAM / Ecosystem Benefit :blush:
 
 > *What value does your project add to YAM and the wider ecosystem? How do we measure that benefit?*
 
 [Insert answer here]: #
 
-### 8. Other Information :question:
+### 7. Other Information :question:
 
 > *Imagine you're a YAM holder. What else do you think we should know about your application?*
 
