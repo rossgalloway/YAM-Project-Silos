@@ -3,4 +3,6 @@ sidebar_position: 1
 id: "silo-readme"
 ---
 
-# add to readme
+# Welcome
+
+Info about this site and how to use it goes here!
