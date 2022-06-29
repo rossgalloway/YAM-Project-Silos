@@ -6,7 +6,7 @@ sidebar_position: 2
 # YAM Re-Org Silo Creation
 
 | Info                  |                         |
-| -----------           | -----------             |
+| -----------------     | ----------------------             |
 | Type                  | Silo Application                   |
 | Author                | Ross                    |
 | Date                  | May 12th 2022           |
