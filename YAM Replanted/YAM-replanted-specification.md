@@ -9,6 +9,8 @@ sidebar_label: 'Specification Doc 📝'
 sidebar_position: 2
 ---
 
+@todo #2 table to show forum thread and prior votes
+
 # YAM Replanted Specification Document 
 
 *This document serves to make the goals, requirements, scope, and risks of a new project clear in order to help inform YAM token holders when making decisions about funding work to build it.*
