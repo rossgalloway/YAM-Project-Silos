@@ -6,7 +6,7 @@ sidebar_position: 1
 # YAM Silo Creation Application
 
 | Info                  |                         |
-| -----------           | -----------             |
+| -----------------           | ---------------------------------             |
 | Type                  | Silo Application                   |
 | Author                | [Add name]                   |
 | Date                  | [add date]        |
