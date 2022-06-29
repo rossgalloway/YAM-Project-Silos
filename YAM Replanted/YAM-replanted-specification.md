@@ -1,19 +1,20 @@
 ---
-Reference YGP: 01
-title: YAM Replanted Specification Document
-status: Draft
-author: 'Ross'
-created: 2022-06-02
-type: Specification Document
 sidebar_label: 'Specification Doc 📝'
 sidebar_position: 2
 ---
 
-@todo #2 table to show forum thread and prior votes
+# YAM Replanted Specification Document
 
-# YAM Replanted Specification Document 
+| Info                  |                         |
+| -----------           | -----------             |
+| Type                  | Specification Document                   |
+| Author                | Ross                    |
+| Date                  | June 15th 2022           |
+| Status                | Ready for vote             |
+| Discourse Link        | Insert when available                     |
+| Snapshot Link         | Insert when available                       |
 
-*This document serves to make the goals, requirements, scope, and risks of a new project clear in order to help inform YAM token holders when making decisions about funding work to build it.*
+> *This document serves to make the goals, requirements, scope, and risks of a new project clear in order to help inform YAM token holders when making decisions about funding work to build it.*
 
 ## Project Summary 📝
 

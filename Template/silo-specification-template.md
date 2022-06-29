@@ -1,17 +1,21 @@
 ---
-Reference YGP: 01
-title: Template Specification Document
-status: Draft
-author: 'author'
-created: 2022-06-02
-type: Specification Document
 sidebar_label: 'Specification Doc 📝'
 sidebar_position: 2
 ---
 
 # Specification Document Template
 
-*This document serves to make the goals, requirements, scope, and risks of a new project clear in order to help inform YAM token holders when making decisions about funding work to build it.*
+
+| Info                  |                         |
+| -----------           | -----------             |
+| Type                  | Specification Document                   |
+| Author                | [Add name]                   |
+| Date                  | [add date]        |
+| Status                | [draft, ready for vote, approved]           |
+| Discourse Link        | [Insert when available]                    |
+| Snapshot Link         | [Insert when available]                       |
+
+> *This document serves to make the goals, requirements, scope, and risks of a new project clear in order to help inform YAM token holders when making decisions about funding work to build it.*
 
 ## Project Summary 📝
 

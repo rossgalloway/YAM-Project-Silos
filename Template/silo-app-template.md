@@ -1,17 +1,20 @@
 ---
-Reference YGP: 01
-title: Template Silo Application Document
-status: Draft
-author: 'Your Name'
-created: 2022-06-02
-type: Silo Application Document
 sidebar_label: 'Silo Application 📝'
 sidebar_position: 1
 ---
 
 # YAM Silo Creation Application
 
-*This document is the application form to create a new Silo, or project, at YAM. Upon completion, token holders will review the application and determine if it is a project that they find interesting and wish to fund a specification document.*
+| Info                  |                         |
+| -----------           | -----------             |
+| Type                  | Silo Application                   |
+| Author                | [Add name]                   |
+| Date                  | [add date]        |
+| Status                | [draft, ready for vote, approved]           |
+| Discourse Link        | [Insert when available]                    |
+| Snapshot Link         | [Insert when available]                       |
+
+> *This document is the application form to create a new Silo, or project, at YAM. Upon completion, token holders will review the application and determine if it is a project that they find interesting and wish to fund a specification document.*
 
 [This is a comment! It will not display]: #
 [This application is the first step for starting a Silo at YAM. It is where you tell YAM holders that you want to build something and give the basic details so that they can approve or disapprove funding the next step, which is a specifications document.]: #
