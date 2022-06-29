@@ -5,14 +5,16 @@ sidebar_position: 1
 
 # YAM Silo Creation Application
 
-| Info                  |                         |
-| -----------------           | ---------------------------------             |
-| Type                  | Silo Application                   |
-| Author                | [Add name]                   |
-| Date                  | [add date]        |
-| Status                | [draft, ready for vote, approved]           |
-| Discourse Link        | [Insert when available]                    |
-| Snapshot Link         | [Insert when available]                       |
+| Info                  |                                          |
+| -----------------     | ---------------------------------        |
+| Type                  | Silo Application                         |
+| Author                | [Add name]                               |
+| Date                  | [add date]                               |
+| Status                | [draft, ready for vote, approved]        |
+| Discourse             | [Insert link when available]             |
+| Snapshot              | [Insert link when available]             |
+
+---
 
 > *This document is the application form to create a new Silo, or project, at YAM. Upon completion, token holders will review the application and determine if it is a project that they find interesting and wish to fund a specification document.*
 

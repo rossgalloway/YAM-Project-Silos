@@ -6,14 +6,16 @@ sidebar_position: 2
 # Specification Document Template
 
 
-| Info                  |                         |
-| -----------           | -----------             |
+| Info                  |                                          |
+| -----------           | -----------                              |
 | Type                  | Specification Document                   |
-| Author                | [Add name]                   |
-| Date                  | [add date]        |
-| Status                | [draft, ready for vote, approved]           |
-| Discourse Link        | [Insert when available]                    |
-| Snapshot Link         | [Insert when available]                       |
+| Author                | [Add name]                               |
+| Date                  | [add date]                               |
+| Status                | [draft, ready for vote, approved]        |
+| Discourse             | [Insert when available]                  |
+| Snapshot              | [Insert when available]                  |
+
+---
 
 > *This document serves to make the goals, requirements, scope, and risks of a new project clear in order to help inform YAM token holders when making decisions about funding work to build it.*
 

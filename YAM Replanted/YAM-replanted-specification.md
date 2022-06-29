@@ -5,14 +5,16 @@ sidebar_position: 2
 
 # YAM Replanted Specification Document
 
-| Info                  |                         |
-| -----------           | -----------             |
-| Type                  | Specification Document                   |
-| Author                | Ross                    |
-| Date                  | June 15th 2022           |
-| Status                | Ready for vote             |
-| Discourse Link        | Insert when available                     |
-| Snapshot Link         | Insert when available                       |
+| Info                  |                                      |
+| -----------           | -----------                          |
+| Type                  | Specification Document               |
+| Author                | Ross                                 |
+| Date                  | June 15th 2022                       |
+| Status                | Ready for vote                       |
+| Discourse             | Insert link when available           |
+| Snapshot              | Insert link when available           |
+
+---
 
 > *This document serves to make the goals, requirements, scope, and risks of a new project clear in order to help inform YAM token holders when making decisions about funding work to build it.*
 
