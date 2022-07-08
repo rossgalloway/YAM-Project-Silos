@@ -1,5 +1,5 @@
 ---
-sidebar_label: 'YAM RePlanted'
+sidebar_label: 'YAM Re-ORG'
 sidebar_position: 2
 ---
 
