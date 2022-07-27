@@ -8,10 +8,9 @@ sidebar_position: 1
 | Info                  |                                          |
 | -----------------     | ---------------------------------        |
 | Type                  | Silo Application                         |
-| Author                | [Add name]                               |
-| Date                  | [add date]                               |
-| Status                | [draft, ready for vote, approved]        |
-| Discourse             | [Insert link when available]             |
+| Author                | Feddas                                   |
+| Date                  | June 22, 2022                            |
+| Discourse             | https://forum.yam.finance/t/yam-treasury-management-and-maintenance-framework-silo/1693J  |
 
 ---
 
