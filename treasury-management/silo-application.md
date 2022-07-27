@@ -1,6 +1,17 @@
+---
+sidebar_label: 'Silo Application 📝'
+sidebar_position: 1
+---
+
 # YAM DAO Grant Application
 
-This is the first step in applying for a grant from YAM to fund a new project! Please fill out the form below to let the YAM community know what your project is all about. ***Why this idea? Why you? Why now?***
+| Info                  |                                          |
+| -----------------     | ---------------------------------        |
+| Type                  | Silo Application                         |
+| Author                | [Add name]                               |
+| Date                  | [add date]                               |
+| Status                | [draft, ready for vote, approved]        |
+| Discourse             | [Insert link when available]             |
 
 ---
 
