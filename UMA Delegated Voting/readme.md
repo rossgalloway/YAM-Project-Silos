@@ -1,6 +1,6 @@
 ---
-sidebar_label: 'YAM Re-ORG'
-sidebar_position: 2
+sidebar_label: 'UMA Delegated Voting'
+sidebar_position: 5
 ---
 
-# Uma Designated Voting
+# Uma Delegated Voting

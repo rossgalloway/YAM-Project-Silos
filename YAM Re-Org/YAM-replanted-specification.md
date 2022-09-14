@@ -1,6 +1,6 @@
 ---
 sidebar_label: 'Specification Doc 📝'
-sidebar_position: 2
+sidebar_position: 1
 ---
 
 # YAM Re-Org - Specification Document
@@ -130,7 +130,7 @@ Once posted to the YAM Forum, YAM token holders should give feedback on whether 
 
 ### 🏃 Milestone 1: Post Specification Document and recieve feedback
 
-![step1](./Other%20Documents/220914-process%201.png)
+![step1](220914-process%201.png)
 
 ### Step 2: Grant Proposal
 
@@ -140,7 +140,7 @@ There will be a snapshot vote on the `Grant Proposal` once it has been submitted
 
 ### 🏃 Milestone 2: Grant Approval
 
-![step2](./Other%20Documents/220914-process%202.png)
+![step2](220914-process%202.png)
 
 ### Step 3: Work and Reporting
 
@@ -148,20 +148,20 @@ Grant recipients should now be working on the project. Based on the terms of the
 
 ### 🏃Milestone 3: - Progress Report
 
-![step3](./Other%20Documents/220914-process%203.png)
+![step3](220914-process%203.png)
 
 Upon submission of a `Status/Transparency report`, token holders have a 3 day window to dispute the payment. If it is not disputed, it is added to the monthly on-chain transaction (with the other approved payments), which is executed via a token vote.
 
 ### 🏃Milestone 4: - Grant Payment
 
-![step4](./Other%20Documents/220914-process%204.png)
+![step4](220914-process%204.png)
 
 
 ### Step 4: Completion and Renewal
 
 After the completion of the work and full payment of the grant, the process can be repeated for additional scope of work by submitting a new `Grant Proposal` (start over at step 2).  This iterative process allows for flexibility in the system and allows token holders to re-affirm their approval of the work being done.
 
-![step4](./Other%20Documents/220914-process%205.png)
+![step5](220914-process%205.png)
 
 ## Risks ❗
 

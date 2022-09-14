@@ -3,7 +3,7 @@ sidebar_position: 1
 id: "silo-readme"
 ---
 
-# :wave:
+# Getting Started
 
 Welcome to the YAM Information Repository! We are glad you are here. This is your one stop shop to get all the information you need about YAM as a token holder, grant applicant, or interested investor. This repository is open source, all the documents are available on github, and anyone is welcome to contribute by making pull requests.
 
