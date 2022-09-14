@@ -3,7 +3,7 @@ sidebar_label: 'YAM Re-ORG'
 sidebar_position: 2
 ---
 
-# YAM RePlanted 
+# YAM Re-Org 
 
 This project aims to build a new framework for the YAM DAO to facilitate better transparency, accountability, and permissionless-ness. It does so by developing a new process by which projects can receive funding.
 

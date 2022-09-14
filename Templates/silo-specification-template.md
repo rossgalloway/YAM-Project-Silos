@@ -3,17 +3,17 @@ sidebar_label: 'Specification Doc 📝'
 sidebar_position: 2
 ---
 
-# Specification Document Template
+# [Project Name] - Specification Document 
 
-
-| Info                  |                                          |
-| -----------           | -----------                              |
-| Type                  | Specification Document                   |
-| Author                | [Add name]                               |
-| Date                  | [add date]                               |
-| Status                | [draft, ready for vote, approved]        |
-| Discourse             | [Insert when available]                  |
-| Snapshot              | [Insert when available]                  |
+| Info                  |                                      |
+| -----------------     | ---------------------------------    |
+| Project Name          | [Project Name]                       |
+| Author                | [Your Name]                          |
+| Date                  | [Date]                               |
+| Discord Handle        | [Discord or TG handle]               |
+| Status                | [draft, Final, Approved]             |
+| Discourse             | [Insert link when available]         |
+| Snapshot              | [Insert link when available]         |
 
 ---
 
@@ -32,6 +32,10 @@ Nulla tincidunt mi ullamcorper, sodales enim quis, rutrum nulla. Ut eleifend eni
 ### What problem does the project solve?
 
 [replace the text below with Your answer]: #
+
+Nulla tincidunt mi ullamcorper, sodales enim quis, rutrum nulla. Ut eleifend enim ipsum, ac ultrices nunc vestibulum non. Suspendisse eget tempus ipsum. Mauris sed lacus bibendum, faucibus nisi ut, volutpat lorem. Vivamus in ultricies metus, quis fermentum eros. In ornare enim a sodales lobortis. Integer libero odio, vehicula volutpat mauris nec, sollicitudin maximus tellus. Nullam diam diam, iaculis sed congue nec, vestibulum at ex. Phasellus dignissim hendrerit magna egestas varius. Pellentesque congue nunc et orci ultricies, vel eleifend erat mollis. Ut non risus ligula. Ut bibendum diam vitae libero dignissim congue. Quisque ex arcu, gravida non nibh semper, consequat iaculis felis.
+
+### YAM / Ecosystem Benefit
 
 Nulla tincidunt mi ullamcorper, sodales enim quis, rutrum nulla. Ut eleifend enim ipsum, ac ultrices nunc vestibulum non. Suspendisse eget tempus ipsum. Mauris sed lacus bibendum, faucibus nisi ut, volutpat lorem. Vivamus in ultricies metus, quis fermentum eros. In ornare enim a sodales lobortis. Integer libero odio, vehicula volutpat mauris nec, sollicitudin maximus tellus. Nullam diam diam, iaculis sed congue nec, vestibulum at ex. Phasellus dignissim hendrerit magna egestas varius. Pellentesque congue nunc et orci ultricies, vel eleifend erat mollis. Ut non risus ligula. Ut bibendum diam vitae libero dignissim congue. Quisque ex arcu, gravida non nibh semper, consequat iaculis felis.
 
@@ -66,7 +70,7 @@ Nulla tincidunt mi ullamcorper, sodales enim quis, rutrum nulla. Ut eleifend eni
 - the project `SHOULD` provide Z
 - The project `COULD` allow users to do XY.
 
-## Participants and User Flow 👨‍🚀
+## Participants 👨‍🚀
 
 ### Participants/Users of the Project
 
@@ -90,15 +94,15 @@ Nulla tincidunt mi ullamcorper, sodales enim quis, rutrum nulla. Ut eleifend eni
 
 - **How they interact with the project**: User Group 1 interactions.
 
-#### User Group 3
+#### User Group N...
 
-- **Role**: User Group 3 Role.
+- **Role**: User Group N Role.
 
-- **Necessary Skills**: User Group 3 Skills.
+- **Necessary Skills**: User Group N Skills.
 
-- **How they interact with the project**: User Group 3 interactions.
+- **How they interact with the project**: User Group N interactions.
 
-### User Flow
+## User Flow 💧
 
 > *What is the full user flow for this project. Is this all part of the scope?*
 
