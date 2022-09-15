@@ -1,5 +1,5 @@
 ---
-sidebar_label: 'insert'
+sidebar_label: 'Old Style Application 📝'
 sidebar_position: 1
 ---
 

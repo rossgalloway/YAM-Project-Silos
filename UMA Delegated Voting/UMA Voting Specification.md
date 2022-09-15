@@ -1,6 +1,6 @@
 ---
-sidebar_label: 'insert'
-sidebar_position: 2
+sidebar_label: 'Specification Doc 📝'
+sidebar_position: 1
 ---
 
 # UMA Delegated Voting - Project Specification

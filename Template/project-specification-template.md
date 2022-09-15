@@ -1,6 +1,6 @@
 ---
 sidebar_label: 'Specification Doc 📝'
-sidebar_position: 2
+sidebar_position: 1
 ---
 
 # [Project Name] - Specification Document 
@@ -48,6 +48,8 @@ Nulla tincidunt mi ullamcorper, sodales enim quis, rutrum nulla. Ut eleifend eni
 [replace the text below with Your answer]: #
 
 Nulla tincidunt mi ullamcorper, sodales enim quis, rutrum nulla. Ut eleifend enim ipsum, ac ultrices nunc vestibulum non. Suspendisse eget tempus ipsum. Mauris sed lacus bibendum, faucibus nisi ut, volutpat lorem. Vivamus in ultricies metus, quis fermentum eros. In ornare enim a sodales lobortis. Integer libero odio, vehicula volutpat mauris nec, sollicitudin maximus tellus. Nullam diam diam, iaculis sed congue nec, vestibulum at ex. Phasellus dignissim hendrerit magna egestas varius. Pellentesque congue nunc et orci ultricies, vel eleifend erat mollis. Ut non risus ligula. Ut bibendum diam vitae libero dignissim congue. Quisque ex arcu, gravida non nibh semper, consequat iaculis felis.
+
+![merge panda](./Other%20Documents/QDvgcrww.png)
 
 ### Alternatives Considered
 

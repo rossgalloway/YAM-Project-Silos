@@ -1,6 +1,6 @@
 ---
-sidebar_label: 'Application [template]'
-sidebar_position: 2
+sidebar_label: 'Grant Application 📝'
+sidebar_position: 1
 ---
 
 # [Grant Title] - Grant #XXX

@@ -1,5 +1,5 @@
 ---
-sidebar_label: 'Application'
+sidebar_label: 'Application 📝'
 sidebar_position: 1
 ---
 
